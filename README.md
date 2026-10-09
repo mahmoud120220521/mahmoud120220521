@@ -82,8 +82,7 @@
 ## 📫 Contact
 
 - 📧 Email: [mahmoud2jsjksj@gmail.com](mailto:mahmoud2jsjksj@gmail.com)
-- 💼 LinkedIn: Add your LinkedIn profile URL here.
-- 🐙 GitHub: Add your GitHub profile URL here.
+- 🐙 GitHub: [Add your GitHub profile URL here](https://github.com/mahmoud120220521/mahmoud120220521).
 
 ---
 
